@@ -1,0 +1,16 @@
+{
+  "licenses": [
+    {
+      "key": "TRIAL-FREE-24H",
+      "hwid": "9774d56d682e549c",
+      "status": "active",
+      "expiryDate": "2024-05-21"  // ১ দিনের জন্য হলে কালকের তারিখ দিন
+    },
+    {
+      "key": "PREMIUM-30D-ROCKET",
+      "hwid": "another_hwid_here",
+      "status": "active",
+      "expiryDate": "2024-06-20"  // ১ মাসের জন্য হলে ৩০ দিন পরের তারিখ দিন
+    }
+  ]
+}
