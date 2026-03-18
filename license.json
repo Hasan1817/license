@@ -1,31 +1,39 @@
-{"licenses": [
+{
+  "licenses": [
     {
-      "key": "AI-ENGINE-TRIAL-24H-01",
-      "hwid": "2684b847f56f9077",
+      "key": "A1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6Q7R8S9T0U1V2W3X4Y5Z",
+      "hwid": "",
       "status": "active",
       "expiryDate": "2026-03-18",
-      "note": "1 Day Trial Key"
+      "type": "1-Day Trial"
     },
     {
-      "key": "AI-ENGINE-TRIAL-24H-02",
+      "key": "Z9Y8X7W6V5U4T3S2R1Q0P9O8N7M6L5K4J3I2H1G0F9E8D7C6B5A4",
       "hwid": "",
       "status": "active",
-      "expiryDate": "2024-05-21",
-      "note": "1 Day Trial Key"
+      "expiryDate": "2024-05-22",
+      "type": "1-Day Trial"
     },
     {
-      "key": "AI-MODEL-MONTHLY-30D-01",
+      "key": "P0O9I8U7Y6T5R4E3W2Q1A0S9D8F7G6H5J4K3L2Z1X2C3V4B5N6M7",
       "hwid": "",
       "status": "active",
-      "expiryDate": "2024-06-20",
-      "note": "1 Month Premium Key"
+      "expiryDate": "2024-06-21",
+      "type": "1-Month Subscription"
     },
     {
-      "key": "AI-MODEL-MONTHLY-30D-02",
+      "key": "M7N6B5V4C3X2Z1L2K3J4H5G6F7D8S9A0Q1W2E3R4T5Y6U7I8O9P0",
       "hwid": "",
       "status": "active",
-      "expiryDate": "2024-06-20",
-      "note": "1 Month Premium Key"
+      "expiryDate": "2024-06-21",
+      "type": "1-Month Subscription"
+    },
+    {
+      "key": "5A4B3C2D1E0F9G8H7I6J5K4L3M2N1O0P9Q8R7S6T5U4V3W2X1Y0Z",
+      "hwid": "",
+      "status": "active",
+      "expiryDate": "2024-06-21",
+      "type": "1-Month Subscription"
     }
   ]
 }
